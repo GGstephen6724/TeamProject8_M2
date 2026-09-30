@@ -1,0 +1,129 @@
+[
+    {
+        "id": 1,
+        "title": "IT Help Desk Technician",
+        "company": "SunCoast Technology",
+        "location": "Remote",
+        "remote": true,
+        "employment_type": "Part-time",
+        "salary_min": 18,
+        "salary_max": 22,
+        "skills": [
+            "customer service",
+            "Windows",
+            "troubleshooting",
+            "networking"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Technical Support Specialist",
+        "company": "Gulf Systems",
+        "location": "Fort Myers, FL",
+        "remote": false,
+        "employment_type": "Full-time",
+        "salary_min": 20,
+        "salary_max": 25,
+        "skills": [
+            "customer service",
+            "SQL",
+            "troubleshooting",
+            "technical support"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Junior Software Developer",
+        "company": "Florida Software Solutions",
+        "location": "Remote",
+        "remote": true,
+        "employment_type": "Full-time",
+        "salary_min": 24,
+        "salary_max": 32,
+        "skills": [
+            "Python",
+            "JavaScript",
+            "Git",
+            "SQL"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "IT Support Technician",
+        "company": "Lee County Services",
+        "location": "Fort Myers, FL",
+        "remote": false,
+        "employment_type": "Part-time",
+        "salary_min": 17,
+        "salary_max": 21,
+        "skills": [
+            "Windows",
+            "hardware",
+            "troubleshooting",
+            "customer service"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Junior Web Developer",
+        "company": "Coastal Web Group",
+        "location": "Remote",
+        "remote": true,
+        "employment_type": "Part-time",
+        "salary_min": 19,
+        "salary_max": 26,
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Data Analyst Intern",
+        "company": "Florida Analytics",
+        "location": "Remote",
+        "remote": true,
+        "employment_type": "Part-time",
+        "salary_min": 18,
+        "salary_max": 23,
+        "skills": [
+            "Python",
+            "SQL",
+            "Excel",
+            "data analysis"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Computer Technician",
+        "company": "Tech Repair Center",
+        "location": "Cape Coral, FL",
+        "remote": false,
+        "employment_type": "Full-time",
+        "salary_min": 18,
+        "salary_max": 23,
+        "skills": [
+            "hardware",
+            "Windows",
+            "networking",
+            "troubleshooting"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Customer Support Representative",
+        "company": "Florida Services Inc.",
+        "location": "Remote",
+        "remote": true,
+        "employment_type": "Part-time",
+        "salary_min": 16,
+        "salary_max": 20,
+        "skills": [
+            "customer service",
+            "communication",
+            "problem solving"
+        ]
+    }
+]

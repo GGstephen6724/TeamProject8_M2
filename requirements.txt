@@ -1,5 +1,5 @@
 openai-agents
 openai
 python-dotenv
-mcp
+mcp<2
 fastmcp

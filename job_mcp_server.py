@@ -120,17 +120,17 @@ def search_jobs(
         if keywords:
 
             keyword_terms = [
-            term.strip().lower()
-            for term in keywords.split()
-            if term.strip()
-	    ]
-	
-        if not any(
-            term in searchable_text
-            for term in keyword_terms
-        ):
+                term.strip().lower()
+                for term in keywords.split()
+                if term.strip()
+            ]
 
-            continue
+            if not any(
+                term in searchable_text
+                for term in keyword_terms
+            ):
+
+                continue
 
 
         # Location filter
